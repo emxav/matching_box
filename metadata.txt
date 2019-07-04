@@ -12,7 +12,7 @@ qgisMinimumVersion=3.0
 description=This plugins contains a set of algorithms for matching geospatial vector datasets.
 version=0.1
 author=Emerson Xavier, F. Javier Ariza, Manuel Ureña
-email=emerson.xavier@eb.mil.br
+# email=
 
 about=This plugins contains a set of algorithms for matching geospatial vector datasets. It includes a set of some popular similarity measures used in the matching process. This plugin enables matching at feature level, and the internal level is planned. Regarding the case of correspondence, the methods implemented here enables one-to-one, one-to-many, and many-to-many matches.
 
